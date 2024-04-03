@@ -1,0 +1,13 @@
+.flashsale-container img{
+   
+    height: 150px;
+
+
+}
+.title{
+    font-size: 14px;
+    margin-top: 2px;
+}
+.price{
+    color: orange;
+}

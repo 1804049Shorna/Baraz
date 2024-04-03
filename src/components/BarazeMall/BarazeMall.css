@@ -1,0 +1,13 @@
+*{
+    font-family: sans-serif;
+    font-size: 16px;
+}
+
+.bg-brand{
+    background-color: rgb(244, 232, 232);
+    font-family: sans-serif;
+}
+.sm-div{
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+}
